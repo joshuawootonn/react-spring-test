@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f0ff618-c257-4c42-9947-8dd58ba7d2be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1VRE4PMzKi5sq0d9Gzc0TsuEkUt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\jwootonn\Git\react-spring-test\node_modules\prettier" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Users\jwootonn\Git\react-spring-test\node_modules\typescript\lib" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f0ff618-c257-4c42-9947-8dd58ba7d2be" name="Default Changelist" comment="" />
+      <created>1577207316330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577207316330</updated>
+      <workItem from="1577207319749" duration="2294000" />
+      <workItem from="1577209629959" duration="1369000" />
+      <workItem from="1577211011697" duration="4328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="199" key="#Inspections" timestamp="1577209937049">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="199" key="#Inspections/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577209937049" />
+    <state x="710" y="409" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577210173438">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="710" y="409" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577210173438" />
+    <state x="511" y="357" width="814" height="665" key="EditFileWatcherDialog" timestamp="1577210833600">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="511" y="357" width="814" height="665" key="EditFileWatcherDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577210833600" />
+    <state x="96" y="105" width="1644" height="945" key="SettingsEditor" timestamp="1577210999319">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="96" y="105" width="1644" height="945" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577210999319" />
+    <state x="609" y="274" width="700" height="530" key="recent.locations.popup" timestamp="1577210355504">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="609" y="274" width="700" height="530" key="recent.locations.popup/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577210355504" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1577215262655">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577215262655" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/index.tsx</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
