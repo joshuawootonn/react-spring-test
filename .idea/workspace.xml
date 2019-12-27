@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f0ff618-c257-4c42-9947-8dd58ba7d2be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/followingEye.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/followingEye.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/content1.container.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/content1.container.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,12 +67,24 @@
       <updated>1577207316330</updated>
       <workItem from="1577207319749" duration="2294000" />
       <workItem from="1577209629959" duration="1369000" />
-      <workItem from="1577211011697" duration="5181000" />
+      <workItem from="1577211011697" duration="7705000" />
     </task>
+    <task id="LOCAL-00001" summary="two eyes">
+      <created>1577216236890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577216236890</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="two eyes" />
+    <option name="LAST_COMMIT_MESSAGE" value="two eyes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="199" key="#Inspections" timestamp="1577209937049">
@@ -84,6 +95,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="710" y="409" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577210173438" />
+    <state x="523" y="135" key="CommitChangelistDialog2" timestamp="1577216236198">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="523" y="135" key="CommitChangelistDialog2/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577216236198" />
     <state x="511" y="357" width="814" height="665" key="EditFileWatcherDialog" timestamp="1577210833600">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -92,14 +107,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="96" y="105" width="1644" height="945" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577210999319" />
+    <state x="552" y="274" key="Vcs.Push.Dialog.v2" timestamp="1577216280910">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="274" key="Vcs.Push.Dialog.v2/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577216280910" />
     <state x="609" y="274" width="700" height="530" key="recent.locations.popup" timestamp="1577210355504">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="609" y="274" width="700" height="530" key="recent.locations.popup/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577210355504" />
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1577215262655">
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1577460151059">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577215262655" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577460151059" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -75,13 +75,10 @@ const Content1: React.FC<{}> = () => {
     (x: any, y: any) => `translate(${x / 30},${y / 30 + -10})`
   );
 
-  const interpPupil2 = xy2.interpolate(
-    // @ts-ignore
-    (x: any, y: any) => `translate(${x / 25},${y / 25 + -10})`
-  );
+  const interpPupil2 = interpolate(xy2, (x: any, y: any) => `translate(${x / 25},${y / 25 + -10})`);
 
-  const interpSpot2 = xy2.interpolate(
-    // @ts-ignore
+  const interpSpot2 = interpolate(
+    xy2,
     (x: any, y: any) => `translate(${8 + x / 80},${y / 80 + -10})`
   );
   const onMove = useCallback(({ clientX: x, clientY: y }) => {
